@@ -2,7 +2,7 @@
 
 This repository holds code and data of a research paper showing that forest disturbance rates drive diversity in canopy height. The paper is:
 
-Senf, C., Mori, A., Mueller, J., and Seidl. R. (in revision) The response of canopy height diversity to natural disturbances in two temperate forest landscapes. Landscape Ecology.
+Senf, C., Mori, A., Mueller, J., and Seidl. R. (2020) The response of canopy height diversity to natural disturbances in two temperate forest landscapes. Landscape Ecology, 35, 2101-2112. https://doi.org/10.1007/s10980-020-01085-7
 
 The folder 'lib' holds two scripts: The script 'sample_lidar.R' samples canopy height values across sub-landscapes and calculates nine measures of canopy height diversity. Unfortunately, we can not share all data that went into the script publicly. If you like to reproduce the analysis, please contact me. The script 'compare_diversities_disturbancerate.R' analysis the canopy height diversity over variable disturbance rates. It thus is the main script to reproduce all results presented in the manuscript.
 
